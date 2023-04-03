@@ -1,0 +1,32 @@
+2023-04-03 03:21:24.183516 - Initialized conversion of CBT877
+2023-04-03 03:21:24.437398 - Received CBT.V504.FILE877.PDS from FILE877.XMI 
+2023-04-03 03:21:24.440400 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:21:24.441651 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:21:24.443105 - Found $README.txt (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/$README
+2023-04-03 03:21:24.444385 - Found $SAMPLE.txt (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/$SAMPLE
+2023-04-03 03:21:24.445489 - Found @FILE877.txt (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/@FILE877
+2023-04-03 03:21:24.446948 - Found ALL.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/ALL
+2023-04-03 03:21:24.448072 - Found B.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/B
+2023-04-03 03:21:24.449302 - Found E.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/E
+2023-04-03 03:21:24.450690 - Found LMCLONE.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMCLONE
+2023-04-03 03:21:24.451862 - Found LMCOPY.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMCOPY
+2023-04-03 03:21:24.452976 - Found LMEDIT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMEDIT
+2023-04-03 03:21:24.453963 - Found LMEXPORT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMEXPORT
+2023-04-03 03:21:24.454908 - Found LMIMPORT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMIMPORT
+2023-04-03 03:21:24.455964 - Found LMMDEL.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMMDEL
+2023-04-03 03:21:24.457240 - Found LMMOVE.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMMOVE
+2023-04-03 03:21:24.458271 - Found LMMREN.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMMREN
+2023-04-03 03:21:24.459266 - Found LMMSTATS.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/LMMSTATS
+2023-04-03 03:21:24.460646 - Found MACRO.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/MACRO
+2023-04-03 03:21:24.461765 - Found MAKE.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/MAKE
+2023-04-03 03:21:24.462851 - Found MAKEINI.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/MAKEINI
+2023-04-03 03:21:24.464006 - Found MAKESCAN.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/MAKESCAN
+2023-04-03 03:21:24.465056 - Found MAKESUB.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/MAKESUB
+2023-04-03 03:21:24.466075 - Found QEXPORT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/QEXPORT
+2023-04-03 03:21:24.467116 - Found QIMPORT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/QIMPORT
+2023-04-03 03:21:24.468545 - Found SC.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/SC
+2023-04-03 03:21:24.469742 - Found SLEEP.jcl (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/SLEEP
+2023-04-03 03:21:24.471038 - Found V.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/V
+2023-04-03 03:21:24.472354 - Found VBE.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/VBE
+2023-04-03 03:21:24.473572 - Found VDIR.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/VDIR
+2023-04-03 03:21:24.474742 - Found WSUBMIT.rexx (text/plain) in CBT.V504.FILE877.PDS, moved to PDS/WSUBMIT
